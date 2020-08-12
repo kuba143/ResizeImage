@@ -1,0 +1,17 @@
+.header {
+	background-color: #045F90; 
+	height: 10vh; 
+	min-height: 60px; 
+	font-size: 25px; 
+	text-align: center; 
+	padding-top: 10px; 
+	color: #fff;
+}
+
+.info {
+	margin-top: 5vh;
+}
+
+.input {
+	margin-top: 10vh;
+}
